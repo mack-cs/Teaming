@@ -1,8 +1,10 @@
-package com.teaming.teaming;
+package com.teaming.teaming.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.teaming.teaming.R;
 
 public class MainActivity extends AppCompatActivity {
 
